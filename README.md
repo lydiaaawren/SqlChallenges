@@ -1,0 +1,2 @@
+# SqlChallenges
+ My solutions
